@@ -16,6 +16,6 @@ entries:
     name: pages
     type: application
     urls:
-    - pages-1.0.0.tgz
+    - https://anagha.pirangute.github.io/pages-1.0.0.tgz
     version: 1.0.0
 generated: "2022-03-04T14:29:18.84810985Z"
